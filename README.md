@@ -192,7 +192,7 @@ sudo systemctl restart apache2
 ---
 
 
-### 15. jalankan dengan nama hostingan anada
+### 15. jalankan dengan ip lokal anda
 
 ![alt text](https://github.com/stywthme/Final-Projek-OS-Server-Dan-Sistem-Admin/blob/main/Screenshot%202024-12-24%20015917.png?raw=true)
 

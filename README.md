@@ -2,7 +2,7 @@
 
 # Pengaturan Server Web pada Ubuntu 22.04
 
-Panduan ini memberikan langkah-langkah untuk mengatur server web di Ubuntu 22.04 dengan Apache2, Flask, Gunicorn, menghosting, dan SSH Server.
+Panduan ini memberikan langkah-langkah untuk mengatur server web di Ubuntu 22.04 dengan Apache2, Flask, Gunicorn, dan SSH Server.
 
 ---
 
@@ -199,6 +199,6 @@ sudo systemctl restart apache2
 ---
 
 ## Kesimpulan
-Anda telah berhasil mengatur server web di Ubuntu 22.04 menggunakan Apache2, Flask, Gunicorn, SSH Server, dan Cloudflare Tunnel. Dengan konfigurasi ini, aplikasi Flask Anda dapat diakses secara aman melalui domain yang terhubung ke Cloudflare.
+Anda telah berhasil mengatur server web di Ubuntu 22.04 menggunakan Apache2, Flask, Gunicorn, SSH Server, meskipun masih lokal
 
 ---

@@ -73,7 +73,7 @@ sudo systemctl start ssh
 mkdir ~/my_flask_app
 cd ~/my_flask_app
 ```
-- Buat file `app.py` sederhana:
+- Buat file `app.py` :
 ```python
 from flask import Flask, render_template, request, redirect, url_for, flash
 import os

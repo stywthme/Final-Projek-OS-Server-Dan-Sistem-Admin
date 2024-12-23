@@ -194,7 +194,7 @@ sudo systemctl restart apache2
 
 ### 15. jalankan dengan nama hostingan anada
 
-![alt text](https://github.com/Tuanvallen/FINAL-Projek-OS-Server-Sistem-Admiin/blob/main/Foto%20Instalasi/Screenshot%202024-12-22%20231801.png?raw=true)
+![alt text](https://github.com/stywthme/Final-Projek-OS-Server-Dan-Sistem-Admin/blob/main/Screenshot%202024-12-24%20015917.png?raw=true)
 
 ---
 

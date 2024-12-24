@@ -9,7 +9,9 @@ Panduan ini memberikan langkah-langkah untuk mengatur server web di Ubuntu 22.04
 ## Prasyarat
 
 - Mesin dengan sistem operasi Ubuntu 22.04.
-- Akses root atau pengguna dengan hak `sudo`.
+- menggunakan Ram 5GB
+- memory internal 60GB
+- cpu 4
 - Koneksi internet yang stabil.
 
 ---
